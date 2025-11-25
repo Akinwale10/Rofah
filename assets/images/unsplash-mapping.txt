@@ -1,0 +1,10 @@
+hero-image.jpg -> unsplash: 'woman fashion portrait studio' -> Laura Chouette
+onyx-gown.jpg -> unsplash: 'elegant evening dress' -> Oladimeji Odunsi
+marigold-blouse.jpg -> unsplash: 'casual summer top' -> Jess Harper Sunday
+sterling-blazer.jpg -> unsplash: 'tailored blazer' -> Amanda Vick
+pearl-jumpsuit.jpg -> unsplash: 'comfortable bridal wear' -> Amanda Vick
+sienna-skirt.jpg -> unsplash: 'flowy maxi skirt' -> Amanda Vick
+aspen-trench.jpg -> unsplash: 'classic trench coat' -> Etty Fidele Caleb Betts
+fabric-choice.jpg -> unsplash: 'fashion sewing machine' -> Amanda Vick
+perfect-fit.jpg -> unsplash: 'pattern making' -> Amanda Vick
+behind-seams.jpg -> unsplash: 'tailor workshop' -> Amanda Vick
